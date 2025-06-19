@@ -16,6 +16,16 @@ Built using **MediaPipe** and **OpenCV**, this project tracks your hand in real-
 - Brightness and volume control (WIP)
 
 ---
+| Gesture                  | Action                       |
+| ------------------------ | ---------------------------- |
+| Index Finger             | Move cursor                  |
+| Fist                     | Drag & Hold (mouseDown)      |
+| Index + Thumb (pinch)    | Scroll / Volume / Brightness |
+| 2 Fingers Close Together | Double Click                 |
+| Index + Middle (V)       | Move & Click                 |
+| Index only               | Right Click                  |
+
+---
 
 ## Tech Stack
 
